@@ -13,7 +13,7 @@ namespace SiteCartorio
 
         public SqlConnection getConexao()
         {
-            SqlConnection conexao = new SqlConnection(@"Server =servidor\SQLEXPRESS; Database = BDSITE; User Id = sa;Password = 12345qaz@;");
+            SqlConnection conexao = new SqlConnection(@"Server =servidor\SQLEXPRESS; Database = ; User Id = sa;Password = ;");
 
 
 
