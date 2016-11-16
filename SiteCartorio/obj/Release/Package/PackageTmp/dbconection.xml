@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <dbname>
+    localhost
+  </dbname>
+  <nomebase>
+    phpmy1_cartorio2notasbh_com_br
+  </nomebase>
+  <usuario>
+    dbm_kpd_cartorio2notasbh_com_br
+  </usuario>
+  <senha>
+    12345qaz@
+  </senha>
+</configuration>

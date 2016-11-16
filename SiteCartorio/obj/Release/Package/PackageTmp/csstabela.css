@@ -1,0 +1,12 @@
+﻿  .tabela{
+             border-style: double;
+             border-color: inherit;
+             border-width: medium;
+             position:relative;
+             left:75%;
+             top:13px;
+             width:24%;
+             right:-451px;
+             height: 400px;
+         }
+
